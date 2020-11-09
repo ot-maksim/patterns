@@ -1,4 +1,4 @@
-package org.example.patterns.adapter;
+package org.example.patterns.structural.adapter;
 
 public class SocketAdapter {
   public static void main(String[] args) {
