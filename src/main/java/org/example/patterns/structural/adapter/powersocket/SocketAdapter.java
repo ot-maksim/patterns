@@ -1,4 +1,4 @@
-package org.example.patterns.structural.adapter;
+package org.example.patterns.structural.adapter.powersocket;
 
 public class SocketAdapter {
   public static void main(String[] args) {
